@@ -1,3 +1,5 @@
+# Password Hash Cracker
+
 This Python script attempts to crack hashed passwords using a dictionary attack. It reads a list of common passwords from a file, hashes each password, and compares it with a list of hashed passwords to find matches.
 
 Modules Used
